@@ -59,7 +59,7 @@ admin.site.register(Ecommerce,Admin)
 
 
 ## OUTPUT
-![alt text](<Screenshot (63).png>)
+![alt text](<Screenshot (64).png>)
 
 
 
